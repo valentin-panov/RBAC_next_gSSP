@@ -2,7 +2,7 @@
 
 ## Web version
 
-https://rbac-next-gSSP.vercel.app/
+https://rbac-next-g-ssp.vercel.app/
 
 ## Used fake API:
 
