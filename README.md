@@ -1,8 +1,8 @@
-# basic_RBAC_for_next
+# RBAC_next_gSSP
 
 ## Web version
 
-https://basic-rbac-for-next.vercel.app/
+https://rbac-next-gSSP.vercel.app/
 
 ## Used fake API:
 
